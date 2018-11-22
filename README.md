@@ -12,7 +12,12 @@ Questions that should be answered:
 - What kind of architecture we need?
 - Which part of the image affect which word in the output?
 
+<p align="center">
+<img style="float: center;margin:0 auto; " align="center" src="./images/problem_to_solve.jpg=200x300">   
+<div align="center">
 Figure 1: Possible explanations of the image
+</div>
+</p>
 
 # Data
 
