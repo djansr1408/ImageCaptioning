@@ -42,7 +42,7 @@ Attention model
 
 
 
-At the end, I would like to mention that this code is not written from scratch, but some parts are found on the internet and adjusted for this specific project.
+At the end, I would like to mention that this code is not written from scratch, some parts are found on the internet and adjusted for this specific project.
 
 
 
