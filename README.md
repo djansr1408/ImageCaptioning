@@ -13,7 +13,7 @@ Questions that should be answered:
 - Which part of the image affect which word in the output?
 
 <p align="center">
-<img style="float: center;margin:0 auto; " align="center" src="./images/problem_to_solve.jpg=200x300">   
+<img style="float: center;margin:0 auto;" align="center" src="./images/problem_to_solve.jpg">   
 <div align="center">
 Figure 1: Possible explanations of the image
 </div>
